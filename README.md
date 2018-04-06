@@ -7,9 +7,11 @@
 3. а) слово "девки" используется 2 раза в значении молодых девушек (дворовых)                  
    б) слово "чудесный" используется 2 раза, 1й раз относительно всхода клевера,2й про ростбиф                                 
    в) слово "сортов" используется 2 раза, 1й раз в сочетании со словом "консервы", 2й раз с "ножиками"
-  Concordance Plot                                   
+ 4. Concordance Plot                                   
   Девки   https://github.com/Masha19/hw6/blob/master/%D0%B4%D0%B5%D0%B2%D0%BA%D0%B8.PNG                                           
-  Чудесный https://github.com/Masha19/hw6/blob/master/%D1%87%D1%83%D0%B4%D0%B5%D1%81%D0%BD%D1%8B%D0%B9.PNG 
-  Сортов https://github.com/Masha19/hw6/blob/master/%D1%81%D0%BE%D1%80%D1%82%D0%BE%D0%B2.PNG 
-  
+  Чудесный https://github.com/Masha19/hw6/blob/master/%D1%87%D1%83%D0%B4%D0%B5%D1%81%D0%BD%D1%8B%D0%B9.PNG                 
+   Сортов https://github.com/Masha19/hw6/blob/master/%D1%81%D0%BE%D1%80%D1%82%D0%BE%D0%B2.PNG                    
+   (Функционирование слов описано в п.3)                    
+   
+   
   
