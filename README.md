@@ -1,6 +1,9 @@
 # hw6
 Google NGrams                                   
-https://docs.google.com/document/d/1QcM7-u4imkMGvWLw6L7djH-M9rVAalEVR9GHL-n31hM/edit?usp=sharing         
+https://docs.google.com/document/d/1QcM7-u4imkMGvWLw6L7djH-M9rVAalEVR9GHL-n31hM/edit?usp=sharing     
+ ![](https://github.com/Masha19/hw6/blob/master/%D1%86%D0%B3.PNG)                       
+ ![](https://github.com/Masha19/hw6/blob/master/%D1%86%D0%B32.PNG)
+![](https://github.com/Masha19/hw6/blob/master/%D1%86%D0%B33.PNG)
 
 
 
